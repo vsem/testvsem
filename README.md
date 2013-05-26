@@ -1,4 +1,4 @@
-vsemtest
+testvsem
 ========
 
 VSEM testing
